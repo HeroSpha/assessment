@@ -1,0 +1,12 @@
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.HistoryModule\bin\Debug\net8.0\Module.HistoryModule.deps.json
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.HistoryModule\bin\Debug\net8.0\Module.HistoryModule.dll
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.HistoryModule\bin\Debug\net8.0\Module.HistoryModule.pdb
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.HistoryModule\obj\Debug\net8.0\Module.HistoryModule.csproj.AssemblyReference.cache
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.HistoryModule\obj\Debug\net8.0\Module.HistoryModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.HistoryModule\obj\Debug\net8.0\Module.HistoryModule.AssemblyInfoInputs.cache
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.HistoryModule\obj\Debug\net8.0\Module.HistoryModule.AssemblyInfo.cs
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.HistoryModule\obj\Debug\net8.0\Module.HistoryModule.csproj.CoreCompileInputs.cache
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.HistoryModule\obj\Debug\net8.0\Module.HistoryModule.dll
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.HistoryModule\obj\Debug\net8.0\refint\Module.HistoryModule.dll
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.HistoryModule\obj\Debug\net8.0\Module.HistoryModule.pdb
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.HistoryModule\obj\Debug\net8.0\ref\Module.HistoryModule.dll

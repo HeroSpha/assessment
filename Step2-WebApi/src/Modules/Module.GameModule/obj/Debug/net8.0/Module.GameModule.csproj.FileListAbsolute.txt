@@ -1,0 +1,15 @@
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\bin\Debug\net8.0\Module.GameModule.deps.json
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\bin\Debug\net8.0\Module.GameModule.dll
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\bin\Debug\net8.0\Module.GameModule.pdb
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\bin\Debug\net8.0\Module.SharedModule.dll
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\bin\Debug\net8.0\Module.SharedModule.pdb
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\Module.GameModule.csproj.AssemblyReference.cache
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\Module.GameModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\Module.GameModule.AssemblyInfoInputs.cache
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\Module.GameModule.AssemblyInfo.cs
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\Module.GameModule.csproj.CoreCompileInputs.cache
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\Module.GameModule.csproj.CopyComplete
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\Module.GameModule.dll
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\refint\Module.GameModule.dll
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\Module.GameModule.pdb
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\ref\Module.GameModule.dll

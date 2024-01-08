@@ -1,0 +1,24 @@
+<Project>
+	<PropertyGroup>
+		<Deterministic>true</Deterministic>
+		<AnalysisMode>All</AnalysisMode>
+		<EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference
+			Include="Serilog.AspNetCore"
+			Version="8.0.0"
+			PrivateAssets="all"
+			Condition="$(MSBuildProjectExtension) == '.csproj'"/>
+		<PackageReference
+			Include="Newtonsoft.Json"
+			Version="13.0.3"
+			PrivateAssets="all"
+			Condition="$(MSBuildProjectExtension) == '.csproj'"/>
+		<PackageReference
+			Include="SonarAnalyzer.CSharp"
+			Version="9.15.0.81779"
+			PrivateAssets="all"
+			Condition="$(MSBuildProjectExtension) == '.csproj'"/>
+	</ItemGroup>
+</Project>

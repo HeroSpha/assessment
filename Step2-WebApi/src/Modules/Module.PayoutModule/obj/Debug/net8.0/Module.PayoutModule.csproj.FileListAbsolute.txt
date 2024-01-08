@@ -1,0 +1,15 @@
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.PayoutModule\bin\Debug\net8.0\Module.PayoutModule.deps.json
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.PayoutModule\bin\Debug\net8.0\Module.PayoutModule.dll
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.PayoutModule\bin\Debug\net8.0\Module.PayoutModule.pdb
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.PayoutModule\bin\Debug\net8.0\Module.SharedModule.dll
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.PayoutModule\bin\Debug\net8.0\Module.SharedModule.pdb
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.PayoutModule\obj\Debug\net8.0\Module.PayoutModule.csproj.AssemblyReference.cache
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.PayoutModule\obj\Debug\net8.0\Module.PayoutModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.PayoutModule\obj\Debug\net8.0\Module.PayoutModule.AssemblyInfoInputs.cache
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.PayoutModule\obj\Debug\net8.0\Module.PayoutModule.AssemblyInfo.cs
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.PayoutModule\obj\Debug\net8.0\Module.PayoutModule.csproj.CoreCompileInputs.cache
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.PayoutModule\obj\Debug\net8.0\Module.PayoutModule.csproj.CopyComplete
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.PayoutModule\obj\Debug\net8.0\Module.PayoutModule.dll
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.PayoutModule\obj\Debug\net8.0\refint\Module.PayoutModule.dll
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.PayoutModule\obj\Debug\net8.0\Module.PayoutModule.pdb
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.PayoutModule\obj\Debug\net8.0\ref\Module.PayoutModule.dll

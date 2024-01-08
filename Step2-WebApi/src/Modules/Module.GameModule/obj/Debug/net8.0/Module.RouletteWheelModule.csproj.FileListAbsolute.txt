@@ -1,0 +1,15 @@
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\bin\Debug\net8.0\Module.RouletteWheelModule.deps.json
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\bin\Debug\net8.0\Module.RouletteWheelModule.dll
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\bin\Debug\net8.0\Module.RouletteWheelModule.pdb
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\bin\Debug\net8.0\Module.SharedModule.dll
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\bin\Debug\net8.0\Module.SharedModule.pdb
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\Module.RouletteWheelModule.csproj.AssemblyReference.cache
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\Module.RouletteWheelModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\Module.RouletteWheelModule.AssemblyInfoInputs.cache
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\Module.RouletteWheelModule.AssemblyInfo.cs
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\Module.RouletteWheelModule.csproj.CoreCompileInputs.cache
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\Module.RouletteWheelModule.csproj.CopyComplete
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\Module.RouletteWheelModule.dll
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\refint\Module.RouletteWheelModule.dll
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\Module.RouletteWheelModule.pdb
+D:\2024\Derivco\Step2-WebApi\src\Modules\Module.GameModule\obj\Debug\net8.0\ref\Module.RouletteWheelModule.dll
